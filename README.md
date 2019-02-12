@@ -1,0 +1,2 @@
+# ProjektIP
+Projekt Informatyka Przemysłowa
