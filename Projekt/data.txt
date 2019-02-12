@@ -1,0 +1,18 @@
+liquid_level 0
+current_temperature 30
+
+nominal_temperature 30
+current_flow 12
+
+nominal_flow 12
+work 0
+next 0
+heater 0
+
+cooler 0
+
+mixer 0
+
+release 0
+joghurt_valve 0
+measure_valve 0
